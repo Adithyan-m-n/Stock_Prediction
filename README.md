@@ -37,4 +37,4 @@ The implementation part consist of several steps :-
 
 ## Sample
 ### Stock - SBIN
-
+![](sample/SBIN.jpg)
