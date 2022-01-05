@@ -11,7 +11,7 @@ The datasets used in this project is 7 year stock prices of companies such as SB
 
 The dataset mainly includes : Date, Open, High, Low, Close, Adj Close and Volume
 
-The Close price of the stock on a daily basis except weekends are considered for the training and testing purposes. The Close price for the first 5 years are used for the training purpose while the rest 2 years are use for testing purpose of the model.
+The Close price of the stock on a daily basis except weekends are considered for training and testing purposes. The Close price for the first 5 years is used for the training purpose while the rest 2 years is used for testing purpose of the model.
 The dataset can be easily modified by the user according to their preference.The number of years taken into consideration can be increased or decreased.The more dataset considered,better the results.
 
 ## Implementation
