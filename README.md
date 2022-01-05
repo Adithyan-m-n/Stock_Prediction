@@ -45,13 +45,9 @@ The implementation part consist of several steps :-
 
 ![](Sample/Mean_Absolute_Error.jpg)
 
-As we can see from above graph, the predicted prices and the actual prices are similar with a small range of difference. 
+Actual closing price : 492.4
 
-The adjusted r^2 value is above 90% for various company stocks.
-
-Mean Adjusted Error has a massive value. This is expected as we cannot get 100% accuracy.
-
-Therefore, this model delivers a good performance.
+As we can see from above graph, the predicted prices and the actual prices are similar with a small range of difference and the adjusted r^2 value is above 90% for various company stocks.Mean Adjusted Error has a massive value, this is expected as we cannot get 100% accuracy.Hence, this model delivers a good performance.
 
 ## Reference 
 
