@@ -37,4 +37,22 @@ The implementation part consist of several steps :-
 
 ## Sample
 ### Stock - SBIN
-![](sample/SBIN.jpg)
+![](Sample/SBIN.jpg)
+
+![](Sample/Prediction.jpg)
+
+![](Sample/R_square_absolute.jpg)
+
+![](Sample/Mean_Absolute_Error.jpg)
+
+As we can see from above graph, the predicted prices and the actual prices are similar with a small range of difference. 
+
+The adjusted r^2 value is above 90% for various company stocks.
+
+Mean Adjusted Error has a massive value. This is expected as we cannot get 100% accuracy.
+
+Therefore, this model delivers a good performance.
+
+## Reference 
+
+
