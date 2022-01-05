@@ -7,12 +7,12 @@ Stock Price Prediction using machine learning helps us discover the future value
 We are using Long Short-Term Memory (LSTM) method to create a Machine Learning model to forecast  the price of the share of a company. Long-term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture.
 
 ## Dataset
-The datasets used in this project is 7 year stock prices of companies such as SBIN.This datasets are used to train and test the LSTM model.These datasets are directly fetched using yfinance.yfinance is an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
+The datasets utilised in this project are stock prices from companies like SBIN over the last seven years. The LSTM model is trained and tested using these datasets. yfinance is used to get these datasets directly..yfinance is an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
 
 The dataset mainly includes : Date, Open, High, Low, Close, Adj Close and Volume
 
-The Close price of the stock on a daily basis except weekends are considered for training and testing purposes. The Close price for the first 5 years is used for the training purpose while the rest 2 years is used for testing purpose of the model.
-The dataset can be easily modified by the user according to their preference.The number of years taken into consideration can be increased or decreased.The more dataset considered,better the results.
+For training and testing reasons, the stock's close price on a daily basis, excluding weekends, is used. The first five years of the Close price are utilized for model training, while the last two years are used for model testing.
+The dataset can be simply customised by the user to suit their needs. It is possible to increase or reduce the number of years taken into account. The greater the number of datasets considered, the better the outcomes.
 
 ## Implementation
 The implementation part consist of several steps :- 
