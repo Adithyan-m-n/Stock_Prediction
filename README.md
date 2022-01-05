@@ -7,7 +7,7 @@ Stock Price Prediction using machine learning helps us discover the future value
 We are using Long Short-Term Memory (LSTM) method to create a Machine Learning model to forecast  the price of the share of a company. Long-term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture.
 
 ## Dataset
-The datasets utilised in this project are stock prices from companies like SBIN over the last seven years. The LSTM model is trained and tested using these datasets. yfinance is used to get these datasets directly..yfinance is an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
+The datasets utilised in this project are stock prices from companies like SBIN over the last seven years. The LSTM model is trained and tested using these datasets. yfinance is used to get these datasets directly.yfinance is an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
 
 The dataset mainly includes : Date, Open, High, Low, Close, Adj Close and Volume
 
